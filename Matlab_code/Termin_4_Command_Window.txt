@@ -1,0 +1,2074 @@
+Trial License -- for use to evaluate programs for possible purchase as an end-user only.
+
+>> sensor_4
+Error: File: sensor_4.m Line: 75 Column: 5
+At least one END is missing. The statement beginning here does not have a matching end.
+ 
+>> sensor_4
+Error using sensor_4 (line 3)
+Unable to create a communication link with the serial port. Please check the input argument PORT and verify that a
+device is connected.
+ 
+>> sensor_4
+Error using sensor_4 (line 3)
+Unable to create a communication link with the serial port. Please check the input argument PORT and verify that a
+device is connected.
+ 
+>> sensor_4
+Error using sensor_4 (line 3)
+Unable to create a communication link with the serial port. Please check the input argument PORT and verify that a
+device is connected.
+ 
+>> sensor_4
+Error using sensor_4 (line 3)
+Unable to create a communication link with the serial port. Please check the input argument PORT and verify that a
+device is connected.
+ 
+>> useServo
+Error using useServo (line 4)
+Unable to create a communication link with the serial port. Please check the input argument PORT and verify that a
+device is connected.
+ 
+>> useServo
+Error using useServo (line 4)
+Unable to create a communication link with the serial port. Please check the input argument PORT and verify that a
+device is connected.
+ 
+>> useServo
+Error using useServo (line 4)
+Unable to create a communication link with the serial port. Please check the input argument PORT and verify that a
+device is connected.
+ 
+>> useServo
+Error using useServo (line 4)
+Unable to create a communication link with the serial port. Please check the input argument PORT and verify that a
+device is connected.
+ 
+>> seriallist
+Warning: seriallist will be removed in a future release. Use serialportlist instead. 
+
+ans = 
+
+  1×2 string array
+
+    "COM3"    "COM9"
+
+>> useServo
+Updating server code on board Uno (COM3). This may take a few minutes.
+Error using useServo (line 4)
+Cannot program board Uno (COM3). Please make sure the board is supported and the port and board type are correct.
+
+Related documentation
+ 
+>> useServo
+Updating server code on board Uno (COM9). This may take a few minutes.
+Halt!
+Vorwärts Distanz: -1.00 cm
+Rechts Distanz: -1.00 cm
+Links Distanz: 25.66 cm
+Links
+Halt!
+Vorwärts Distanz: -1.00 cm
+Rechts Distanz: -1.00 cm
+Links Distanz: -1.00 cm
+Rechts
+Halt!
+Vorwärts Distanz: -1.00 cm
+Rechts Distanz: -1.00 cm
+Links Distanz: -1.00 cm
+Rechts
+Halt!
+Vorwärts Distanz: -1.00 cm
+Rechts Distanz: -1.00 cm
+Links Distanz: -1.00 cm
+Rechts
+Halt!
+Vorwärts Distanz: -1.00 cm
+Rechts Distanz: -1.00 cm
+Links Distanz: -1.00 cm
+Rechts
+Halt!
+Vorwärts Distanz: -1.00 cm
+Rechts Distanz: -1.00 cm
+Links Distanz: -1.00 cm
+Rechts
+Halt!
+Vorwärts Distanz: -1.00 cm
+Rechts Distanz: -1.00 cm
+Links Distanz: -1.00 cm
+Rechts
+Halt!
+Vorwärts Distanz: -1.00 cm
+Rechts Distanz: -1.00 cm
+Links Distanz: -1.00 cm
+Rechts
+Halt!
+Vorwärts Distanz: 27.33 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 25.93 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 8.81 cm
+Rechts Distanz: -1.00 cm
+Links Distanz: 48.72 cm
+Links
+Halt!
+Vorwärts Distanz: 11.64 cm
+Rechts Distanz: 20.97 cm
+Rechts
+Halt!
+Vorwärts Distanz: 12.38 cm
+Rechts Distanz: -1.00 cm
+Links Distanz: -1.00 cm
+Rechts
+Halt!
+Vorwärts Distanz: 51.24 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 51.72 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 9.76 cm
+Rechts Distanz: 14.47 cm
+Links Distanz: -1.00 cm
+Rechts
+Halt!
+Vorwärts Distanz: 14.28 cm
+Rechts Distanz: 17.16 cm
+Links Distanz: -1.00 cm
+Rechts
+Halt!
+Vorwärts Distanz: 10.34 cm
+Rechts Distanz: 10.69 cm
+Links Distanz: -1.00 cm
+Rechts
+Halt!
+Vorwärts Distanz: 12.45 cm
+Rechts Distanz: 11.17 cm
+Links Distanz: -1.00 cm
+Rechts
+Halt!
+Vorwärts Distanz: 43.31 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 5.22 cm
+Rechts Distanz: 6.66 cm
+Links Distanz: -1.00 cm
+Rechts
+Halt!
+Vorwärts Distanz: 87.84 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 88.24 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 87.67 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 87.84 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: -1.00 cm
+Rechts Distanz: 38.24 cm
+Rechts
+Halt!
+Vorwärts Distanz: 51.38 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 123.45 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 7.26 cm
+Rechts Distanz: -1.00 cm
+Links Distanz: -1.00 cm
+Rechts
+Halt!
+Vorwärts Distanz: 34.69 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 38.40 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 17.50 cm
+Rechts Distanz: 17.43 cm
+Links Distanz: -1.00 cm
+Rechts
+Halt!
+Vorwärts Distanz: 43.09 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 34.64 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 7.66 cm
+Rechts Distanz: 16.74 cm
+Links Distanz: -1.00 cm
+Rechts
+Halt!
+Vorwärts Distanz: -1.00 cm
+Rechts Distanz: 49.12 cm
+Rechts
+Halt!
+Vorwärts Distanz: 28.43 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 4.84 cm
+Rechts Distanz: -1.00 cm
+Links Distanz: -1.00 cm
+Rechts
+Halt!
+Vorwärts Distanz: 27.55 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: -1.00 cm
+Operation terminated by user during useServo (line 112)
+ 
+
+>> sensor_4
+Updating server code on board Uno (COM9). This may take a few minutes.
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 1 Sensor2: 0 Sensor3: 0 Sensor4: 0
+rechts
+Sensor1: 1 Sensor2: 0 Sensor3: 0 Sensor4: 0
+rechts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Error using sensor_4 (line 66)
+Error writing IOServerBlock.
+Invalid operation. Object must be connected to the serial port.
+ 
+>> sensor_4
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 1 Sensor2: 0 Sensor3: 0 Sensor4: 0
+rechts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 1 Sensor2: 0 Sensor3: 0 Sensor4: 0
+rechts
+Sensor1: 1 Sensor2: 0 Sensor3: 0 Sensor4: 0
+rechts
+Sensor1: 1 Sensor2: 0 Sensor3: 0 Sensor4: 0
+rechts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Operation terminated by user during sensor_4 (line 86)
+ 
+
+>> useServo
+Error using useServo (line 4)
+Unable to create a communication link with the serial port. Please check the input argument PORT and verify that a
+device is connected.
+ 
+>> useServo
+Error using useServo (line 4)
+Unable to create a communication link with the serial port. Please check the input argument PORT and verify that a
+device is connected.
+ 
+>> useServo
+Updating server code on board Uno (COM9). This may take a few minutes.
+Halt!
+Vorwärts Distanz: 91.00 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 84.14 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 84.43 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 9.79 cm
+Rechts Distanz: 43.12 cm
+Rechts
+Halt!
+Vorwärts Distanz: 8.97 cm
+Rechts Distanz: 12.17 cm
+Links Distanz: 43.10 cm
+Links
+Halt!
+Vorwärts Distanz: 73.28 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 75.45 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 76.50 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 73.95 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 58.19 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 51.81 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 36.95 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 29.66 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 43.07 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 32.26 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 25.67 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 74.62 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 72.62 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 55.33 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 83.62 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 28.95 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 83.64 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 100.47 cm
+Vorwärts
+Halt!
+Operation terminated by user during useServo (line 144)
+ 
+
+>> useServo
+Halt!
+Vorwärts Distanz: 83.59 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 80.90 cm
+Vorwärts
+Halt!
+Operation terminated by user during useServo (line 144)
+ 
+
+>> vorne
+Updating server code on board Uno (COM9). This may take a few minutes.
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Operation terminated by user during vorne (line 65)
+ 
+
+>> vorne
+Halt!
+Vorwärts
+Halt!
+Operation terminated by user during vorne (line 65)
+ 
+
+>> useServo
+Updating server code on board Uno (COM9). This may take a few minutes.
+Halt!
+Vorwärts Distanz: 22.43 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 10.34 cm
+Rechts Distanz: 37.45 cm
+Rechts
+Halt!
+Vorwärts Distanz: 7.34 cm
+Rechts Distanz: 8.41 cm
+Links Distanz: 37.64 cm
+Links
+Halt!
+Vorwärts Distanz: 4.43 cm
+Rechts Distanz: 6.19 cm
+Links Distanz: 4.02 cm
+Rechts
+Halt!
+Vorwärts Distanz: 56.22 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 43.95 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 152.02 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 20.53 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 21.00 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 40.81 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 12.40 cm
+Rechts Distanz: 34.57 cm
+Rechts
+Halt!
+Vorwärts Distanz: 37.95 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 7.47 cm
+Rechts Distanz: 27.16 cm
+Rechts
+Halt!
+Vorwärts Distanz: 9.16 cm
+Rechts Distanz: 27.19 cm
+Rechts
+Halt!
+Vorwärts Distanz: 7.31 cm
+Rechts Distanz: 25.34 cm
+Rechts
+Halt!
+Vorwärts Distanz: 8.38 cm
+Rechts Distanz: 26.59 cm
+Rechts
+Halt!
+Vorwärts Distanz: 8.66 cm
+Rechts Distanz: 25.74 cm
+Rechts
+Halt!
+Vorwärts Distanz: 8.81 cm
+Rechts Distanz: 25.50 cm
+Rechts
+Halt!
+Vorwärts Distanz: 7.71 cm
+Rechts Distanz: 25.66 cm
+Rechts
+Halt!
+Vorwärts Distanz: 8.17 cm
+Rechts Distanz: 25.66 cm
+Rechts
+Halt!
+Vorwärts Distanz: 8.28 cm
+Rechts Distanz: 26.05 cm
+Rechts
+Halt!
+Vorwärts Distanz: 8.69 cm
+Rechts Distanz: 25.97 cm
+Rechts
+Halt!
+Operation terminated by user during useServo (line 144)
+ 
+
+>> servo_rueckfahren
+Operation terminated by user during cell/strcat (line 50)
+
+
+In ver
+
+In ver
+
+In ver
+
+In matlabshared.ioclient.IOProtocol/isSimulinkIO
+
+In matlabshared.ioclient.IOProtocol
+
+In matlabshared.hwsdk.controller/initCommunication (line 516)
+                        obj.Protocol = matlabshared.ioclient.IOProtocol(connectionObj,'Checksum','enable');
+
+In matlabshared.hwsdk.controller/initServerConnection (line 1371)
+            connectionStatus = initCommunication(obj, obj.Connection);
+
+In matlabshared.hwsdk.controller/initHardware (line 362)
+                initServerConnection(obj);
+
+In arduino (line 140)
+                obj.initHardware(varargin{:});
+
+In servo_rueckfahren (line 4)
+a = arduino('COM9', 'Uno', 'Libraries', {'Servo', 'Ultrasonic'});
+ 
+
+>> servo_rueckfahren
+Halt!
+Vorwärts Distanz: 9.29 cm
+Rechts Distanz: 6.86 cm
+Links Distanz: 6.36 cm
+Rückwärts
+Halt!
+Vorwärts Distanz: 7.45 cm
+Rechts Distanz: 3.47 cm
+Links Distanz: 4.47 cm
+Rückwärts
+Halt!
+Vorwärts Distanz: -1.00 cm
+Rechts Distanz: 37.62 cm
+Rechts
+Halt!
+Vorwärts Distanz: 36.03 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 35.28 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 51.72 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 118.17 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 51.78 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 118.19 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 51.97 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 51.26 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 46.60 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 118.21 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 103.91 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 9.72 cm
+Rechts Distanz: 37.86 cm
+Rechts
+Halt!
+Vorwärts Distanz: 7.55 cm
+Rechts Distanz: 6.97 cm
+Links Distanz: 52.33 cm
+Links
+Halt!
+Vorwärts Distanz: 5.71 cm
+Rechts Distanz: 3.50 cm
+Links Distanz: 4.62 cm
+Rückwärts
+Halt!
+Vorwärts Distanz: 26.24 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 51.76 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 78.33 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 85.60 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 90.19 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 95.86 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 93.60 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 90.74 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 90.60 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 91.59 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 51.48 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 91.31 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 84.19 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 85.98 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 84.52 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 77.34 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 90.16 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 90.64 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 90.43 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 90.00 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 89.90 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 91.45 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 90.72 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 92.53 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 100.55 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 90.02 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 89.76 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 89.53 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 89.81 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 89.69 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 89.36 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 89.60 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 52.48 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 93.12 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 54.88 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 90.19 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 90.95 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 52.78 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 52.07 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 87.26 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 86.83 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 89.03 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 88.50 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 53.41 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 92.74 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 92.53 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 90.34 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 89.09 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 94.17 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 88.28 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 90.45 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 89.55 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 89.55 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 89.48 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 89.17 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 90.79 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 90.45 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 89.50 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 88.24 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 88.31 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 87.95 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 89.64 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 89.78 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 90.72 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 89.90 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 89.52 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 89.16 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 89.62 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 92.60 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 92.64 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 88.41 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 88.41 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 89.36 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 88.93 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 89.07 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 90.21 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 90.60 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 89.22 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 89.16 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 89.24 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 58.67 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 88.91 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 51.57 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 90.21 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 88.74 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 94.16 cm
+Vorwärts
+Halt!
+Vorwärts Distanz: 52.78 cm
+Vorwärts
+Operation terminated by user during servo_rueckfahren (line 122)
+ 
+
+>> sensor_4
+Updating server code on board Uno (COM9). This may take a few minutes.
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 1 Sensor2: 0 Sensor3: 0 Sensor4: 0
+rechts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 1 Sensor2: 0 Sensor3: 0 Sensor4: 1
+links
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 1
+links
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 1
+links
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 1
+links
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 1 Sensor2: 0 Sensor3: 0 Sensor4: 0
+rechts
+Sensor1: 1 Sensor2: 0 Sensor3: 0 Sensor4: 0
+rechts
+Sensor1: 1 Sensor2: 0 Sensor3: 0 Sensor4: 0
+rechts
+Sensor1: 1 Sensor2: 0 Sensor3: 0 Sensor4: 0
+rechts
+Sensor1: 1 Sensor2: 0 Sensor3: 0 Sensor4: 0
+rechts
+Sensor1: 1 Sensor2: 0 Sensor3: 0 Sensor4: 0
+rechts
+Sensor1: 1 Sensor2: 0 Sensor3: 0 Sensor4: 0
+rechts
+Sensor1: 1 Sensor2: 0 Sensor3: 0 Sensor4: 0
+rechts
+Sensor1: 1 Sensor2: 0 Sensor3: 0 Sensor4: 0
+rechts
+Sensor1: 1 Sensor2: 0 Sensor3: 0 Sensor4: 0
+rechts
+Sensor1: 1 Sensor2: 0 Sensor3: 0 Sensor4: 0
+rechts
+Sensor1: 1 Sensor2: 0 Sensor3: 0 Sensor4: 0
+rechts
+Sensor1: 1 Sensor2: 0 Sensor3: 0 Sensor4: 0
+rechts
+Sensor1: 1 Sensor2: 0 Sensor3: 0 Sensor4: 0
+rechts
+Sensor1: 1 Sensor2: 0 Sensor3: 0 Sensor4: 0
+rechts
+Sensor1: 1 Sensor2: 0 Sensor3: 0 Sensor4: 0
+rechts
+Sensor1: 1 Sensor2: 0 Sensor3: 0 Sensor4: 0
+rechts
+Sensor1: 1 Sensor2: 0 Sensor3: 0 Sensor4: 0
+rechts
+Sensor1: 1 Sensor2: 0 Sensor3: 0 Sensor4: 0
+rechts
+Sensor1: 1 Sensor2: 0 Sensor3: 0 Sensor4: 0
+rechts
+Sensor1: 1 Sensor2: 0 Sensor3: 0 Sensor4: 0
+rechts
+Sensor1: 1 Sensor2: 0 Sensor3: 0 Sensor4: 0
+rechts
+Sensor1: 1 Sensor2: 0 Sensor3: 0 Sensor4: 0
+rechts
+Sensor1: 1 Sensor2: 0 Sensor3: 0 Sensor4: 0
+rechts
+Sensor1: 1 Sensor2: 0 Sensor3: 0 Sensor4: 0
+rechts
+Sensor1: 1 Sensor2: 0 Sensor3: 0 Sensor4: 0
+rechts
+Sensor1: 1 Sensor2: 0 Sensor3: 0 Sensor4: 0
+rechts
+Sensor1: 1 Sensor2: 0 Sensor3: 0 Sensor4: 0
+rechts
+Sensor1: 1 Sensor2: 0 Sensor3: 0 Sensor4: 0
+rechts
+Sensor1: 1 Sensor2: 0 Sensor3: 0 Sensor4: 0
+rechts
+Sensor1: 1 Sensor2: 0 Sensor3: 0 Sensor4: 0
+rechts
+Sensor1: 1 Sensor2: 0 Sensor3: 0 Sensor4: 0
+rechts
+Sensor1: 1 Sensor2: 0 Sensor3: 0 Sensor4: 0
+rechts
+Sensor1: 1 Sensor2: 0 Sensor3: 0 Sensor4: 0
+rechts
+Sensor1: 1 Sensor2: 0 Sensor3: 0 Sensor4: 0
+rechts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 1 Sensor2: 0 Sensor3: 0 Sensor4: 0
+rechts
+Sensor1: 1 Sensor2: 0 Sensor3: 0 Sensor4: 0
+rechts
+Sensor1: 1 Sensor2: 0 Sensor3: 0 Sensor4: 0
+rechts
+Sensor1: 1 Sensor2: 0 Sensor3: 0 Sensor4: 0
+rechts
+Sensor1: 1 Sensor2: 0 Sensor3: 0 Sensor4: 0
+rechts
+Sensor1: 1 Sensor2: 0 Sensor3: 0 Sensor4: 0
+rechts
+Sensor1: 1 Sensor2: 0 Sensor3: 0 Sensor4: 0
+rechts
+Sensor1: 1 Sensor2: 0 Sensor3: 0 Sensor4: 0
+rechts
+Sensor1: 1 Sensor2: 0 Sensor3: 0 Sensor4: 0
+rechts
+Sensor1: 1 Sensor2: 0 Sensor3: 0 Sensor4: 0
+rechts
+Sensor1: 1 Sensor2: 0 Sensor3: 0 Sensor4: 0
+rechts
+Sensor1: 1 Sensor2: 0 Sensor3: 0 Sensor4: 0
+rechts
+Sensor1: 1 Sensor2: 0 Sensor3: 0 Sensor4: 0
+rechts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 1 Sensor2: 0 Sensor3: 0 Sensor4: 0
+rechts
+Sensor1: 1 Sensor2: 0 Sensor3: 0 Sensor4: 0
+rechts
+Sensor1: 1 Sensor2: 0 Sensor3: 0 Sensor4: 0
+rechts
+Sensor1: 1 Sensor2: 0 Sensor3: 0 Sensor4: 0
+rechts
+Sensor1: 1 Sensor2: 0 Sensor3: 0 Sensor4: 0
+rechts
+Sensor1: 1 Sensor2: 0 Sensor3: 0 Sensor4: 0
+rechts
+Sensor1: 1 Sensor2: 0 Sensor3: 0 Sensor4: 0
+rechts
+Sensor1: 1 Sensor2: 0 Sensor3: 0 Sensor4: 0
+rechts
+Sensor1: 1 Sensor2: 0 Sensor3: 0 Sensor4: 0
+rechts
+Sensor1: 1 Sensor2: 0 Sensor3: 0 Sensor4: 0
+rechts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Sensor1: 0 Sensor2: 0 Sensor3: 0 Sensor4: 0
+vorwärts
+Operation terminated by user during sensor_4 (line 97)
+ 
+
+>> vorne
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Error using vorne>geradeAus (line 31)
+Error writing IOServerBlock.
+Invalid operation. Object must be connected to the serial port.
+
+Error in vorne (line 60)
+    geradeAus(a, ENA, ENB, IN1, IN2, IN3, IN4, carSpeed);
+ 
+>> vorne
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Operation terminated by user during vorne (line 65)
+ 
+
+>> vorne
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Operation terminated by user during vorne (line 65)
+ 
+
+>> vorne
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Operation terminated by user during vorne (line 65)
+ 
+
+>> vorne
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Operation terminated by user during vorne (line 65)
+ 
+
+>> vorne
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Error using vorne>geradeAus (line 31)
+Invalid operation. Object must be connected to the serial port.
+
+Error in vorne (line 60)
+    geradeAus(a, ENA, ENB, IN1, IN2, IN3, IN4, carSpeed);
+ 
+>> vorne
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Operation terminated by user during vorne (line 61)
+ 
+
+>> vorne
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Operation terminated by user during vorne (line 61)
+ 
+
+>> vorne
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Halt!
+Vorwärts
+Operation terminated by user during vorne (line 61)
+ 
+
+>> 
